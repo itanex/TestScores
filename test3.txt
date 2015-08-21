@@ -1,0 +1,26 @@
+Name                Score Topic   Score Topic
+
+Aardvark, Aaron        10 Geog       40 Vocab
+Bankhead, Tommy        12 Geog       94 Spell
+Bohr, Nils             75 Vocab      51 Spell
+Boole, George          82 Vocab      81 Spell
+Einstein, Albert       26 Geog       17 Spell
+Eisenstein, I. Ron     34 Spell      21 Arith
+Hilbert, George        39 Spell      83 Geog 
+Jacobson, Johann       11 Arith      64 Geog 
+Jules, Cecil           95 Vocab      52 Geog 
+Kimchee, Sun            9 Spell      88 Arith
+Midlen, Michele        47 Vocab      71 Arith
+Nelson, Jeanne         45 Spell      66 Arith
+Rudolph, Martha        12 Vocab      54 Geog 
+Simpson, Bart          73 Arith      55 Geog 
+Smith, John            45 Arith      73 Vocab
+Zwingli, Zoltan        45 Arith      80 Vocab
+
+Topic              N       Avg
+
+Arith              8     52.50
+Geog               8     44.50
+Spell              8     46.25
+Vocab              8     63.00
+Over-all          32     51.56
